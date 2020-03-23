@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["React","createElement"],"mappings":"2FAAA,gCAEe,4BAAMA,IAAMC,cAAc,MAAO,KAAM","file":"component---src-pages-index-js-4209d2599912249c014b.js","sourcesContent":["import React from \"react\"\n\nexport default () => React.createElement(\"div\", null, \"Hello world!\")"],"sourceRoot":""}
