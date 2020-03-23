@@ -1,0 +1,23 @@
+{
+  "ADA": {
+    "Dining Area": [
+      {
+        "Bar": "Bar exceeds 34 inches in height, a 60-inch long protion of the counter must be lowered, where it is readily achievable, to between 28 and 34 inches from the floor to the top of the bar with knee space at least 27 inches high, 30 inches wide, and 19 inches deep, for customers who use wheelchairs."
+      }
+    ],
+    "Bathroom": [
+      {
+        "Toilet": "Toilet handles on incorrect side"
+      },
+      {
+        "Sink": "The toilet has to be within a 60-inch clear space and the sink must be installed beyond that area"
+      },
+      {
+        "Sink": "Sink is higher than 34 inches"
+      },
+      {
+        "Mirror height": "Mirror is more than 40 inches above the floor"
+      }
+    ]
+  }
+}
