@@ -5,5 +5,14 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  pathPrefix: "/Gatsby_Static_Blueprint_Pipe",
+  plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-161624855-1",
+        optimizeId: "GTM-59QCRNC"
+      },
+    },
+  ],
 }

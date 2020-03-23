@@ -13,6 +13,10 @@ const callToActionText = `If you don't have one, download one:   `
 export default (props) => {
   const [isButtonDisabled, toggleButton] = useState(true)
 
+  if (typeof window === 'undefined') {
+    global.window = {}
+  }
+
   function handleFileChange(selectorFiles) {
     if (selectorFiles.length > 0) {
       toggleButton(false)
